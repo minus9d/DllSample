@@ -10,6 +10,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UseDll", "UseDll\UseDll.vcx
 		{975BB4E3-7538-46B9-ABCB-8E91CF52E081} = {975BB4E3-7538-46B9-ABCB-8E91CF52E081}
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UseDllRunTimeDynamicLink", "UseDllRunTimeDynamicLink\UseDllRunTimeDynamicLink.vcxproj", "{B5C39489-ED12-440C-820E-1D7C285F177A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -24,6 +26,10 @@ Global
 		{5A991BFF-FB9E-4EEE-8286-BA2F6813F7CD}.Debug|Win32.Build.0 = Debug|Win32
 		{5A991BFF-FB9E-4EEE-8286-BA2F6813F7CD}.Release|Win32.ActiveCfg = Release|Win32
 		{5A991BFF-FB9E-4EEE-8286-BA2F6813F7CD}.Release|Win32.Build.0 = Release|Win32
+		{B5C39489-ED12-440C-820E-1D7C285F177A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B5C39489-ED12-440C-820E-1D7C285F177A}.Debug|Win32.Build.0 = Debug|Win32
+		{B5C39489-ED12-440C-820E-1D7C285F177A}.Release|Win32.ActiveCfg = Release|Win32
+		{B5C39489-ED12-440C-820E-1D7C285F177A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
