@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.30110.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BasicMath", "BasicMath\BasicMath.vcxproj", "{975BB4E3-7538-46B9-ABCB-8E91CF52E081}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UseDll", "UseDll\UseDll.vcxproj", "{5A991BFF-FB9E-4EEE-8286-BA2F6813F7CD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UseDllLoadTimeDynamicLink", "UseDllLoadTimeDynamicLink\UseDllLoadTimeDynamicLink.vcxproj", "{5A991BFF-FB9E-4EEE-8286-BA2F6813F7CD}"
 	ProjectSection(ProjectDependencies) = postProject
 		{975BB4E3-7538-46B9-ABCB-8E91CF52E081} = {975BB4E3-7538-46B9-ABCB-8E91CF52E081}
 	EndProjectSection
