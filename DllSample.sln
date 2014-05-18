@@ -11,6 +11,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UseDllLoadTimeDynamicLink",
 	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UseDllRunTimeDynamicLink", "UseDllRunTimeDynamicLink\UseDllRunTimeDynamicLink.vcxproj", "{B5C39489-ED12-440C-820E-1D7C285F177A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{975BB4E3-7538-46B9-ABCB-8E91CF52E081} = {975BB4E3-7538-46B9-ABCB-8E91CF52E081}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
