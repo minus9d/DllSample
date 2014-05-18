@@ -2,8 +2,6 @@
 #include <iostream>
 #include <string>
 
-//#pragma comment(lib, "BasicMath.lib")
-
 typedef int (*IMPFUNC) (int n);
 
 int failed(std::string reason)
