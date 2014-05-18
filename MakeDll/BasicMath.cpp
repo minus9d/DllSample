@@ -1,5 +1,5 @@
 #include <Windows.h>
-#include "sample.h"
+#include "BasicMath.h"
 
 extern "C"
 _declspec(dllexport)

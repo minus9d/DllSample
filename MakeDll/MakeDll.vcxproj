@@ -13,6 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{975BB4E3-7538-46B9-ABCB-8E91CF52E081}</ProjectGuid>
     <RootNamespace>MakeDll</RootNamespace>
+    <ProjectName>BasicMath</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -65,10 +66,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DllMain.cpp" />
-    <ClCompile Include="sample.cpp" />
+    <ClCompile Include="BasicMath.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="sample.h" />
+    <ClInclude Include="BasicMath.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
